@@ -1,0 +1,21 @@
+
+body #Home{
+    background-color: #1abc9c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+
+/* i::after{
+  content: '  ';
+  color: white;
+  background-color: white;
+  top: 100%;
+  left:10%;
+}
+
+i::before{
+  content: '  ';
+  background-color:white;
+  top: 100%;
+  right:100%;
+} */
